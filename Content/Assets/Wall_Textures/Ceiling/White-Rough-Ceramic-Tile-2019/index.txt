@@ -1,0 +1,17 @@
+﻿Name: White Rough Ceramic Tile
+Type: model
+Format: 3Ds Max 2019
+Export: FBX
+Render: VRay (6.x), Corona (11)
+Polys: 512
+Verts: 482
+Units: Centimeters
+Dimension: 50.0 x 50.0 x 50.0
+Modeller: M.Mahdi Aboutorabi
+Preset: 3DSKY
+Date: 2024.9.28
+Tags: 
+Packinfo: Packed with Model Packer by https://3dground.net/
+Packver: 1.9.6
+Description:
+
